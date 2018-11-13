@@ -1,12 +1,49 @@
-# Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Software Development
+  description: >
+    ● Fully proficient in C/C++, Python, Javascript, SQL, some assembly when required.
+    ● Broad knowledge of free/open-source databases (SQL and NoSQL).
+    ● Network and distributed application architecture design.
+    ● HTML5 web application front-end/back-end development.
+    ● Desktop applications with OpenGL/GPU programming.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: System Administration
+  description: >
+    ● Extensive UNIX/Linux utilities/techniques experience.
+    ● Cloud/SaaS platform service provisioning, and system monitoring/maintenance.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Circuit Design
+  description: >
+    ● Schematic and PCB design.
+    ● Construction and assembly of circuits.
+    ● Firmware development of sensor/interface drivers.
+    ● Circuit testing/debugging.
+
+- skill: Teaching/Learning
+  description: >
+    ● Ability to adapt to new technology and processes extremely rapidly.
+    ● Skilled in the distillation of information and the instruction of others.
+    ● Using intuitive grasp of machinery and electronics.
+
+- skill: Interpersonal
+  description: >
+    ● Adept at creating relationships quickly.
+    ● Skilled at determining and matching a community vibe.
+    ● An excellent attentive listener.
+
+- skill: Software
+  description: C/C++ - Python - Shell - GDB - Valgrind - VIM - Linux - Git
+
+- skill: Firmware
+  description: FreeRTOS - Yocto - DMA - lwIP/Sockets - OTA - SPI - Serial - I2C - I2S - WiFi - Bluetooth/BLE
+
+- skill: Hardware
+  description: KiCAD - Fusion 360 - Modo - Sourcing - Oscilloscope/Analyzer - ESP32 - STM32 - FTDI - RaspberryPi
+
+- skill: Architecture
+  description: Serverless - Redis - Gitops - PostgreSQL - Elastic - InfluxDB - Firebase - MQTT - Protocol Buffers - FlatBuffers
+
+- skill: Networking
+  description: Network design - Routing - TCP/IP - IPv6 - BGP - IPSec - PXE - VyOS software router
+
+- skill: Cloud/Datacenter
+  description: AWS - Google Cloud - Kubernetes - Docker - Ansible - CI/CD
