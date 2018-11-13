@@ -1,34 +1,44 @@
 - skill: Software Development
   description: >
-    ● Fully proficient in C/C++, Python, Javascript, SQL, some assembly when required.
-    ● Broad knowledge of free/open-source databases (SQL and NoSQL).
-    ● Network and distributed application architecture design.
-    ● HTML5 web application front-end/back-end development.
-    ● Desktop applications with OpenGL/GPU programming.
+    <ul>
+      <li>Fully proficient in C/C++, Python, Javascript, SQL, some assembly when required.</li>
+      <li>Broad knowledge of free/open-source databases (SQL and NoSQL).</li>
+      <li>Network and distributed application architecture design.</li>
+      <li>HTML5 web application front-end/back-end development.</li>
+      <li>Desktop applications with OpenGL/GPU programming.</li>
+    </ul>
 
 - skill: System Administration
   description: |
-    ● Extensive UNIX/Linux utilities/techniques experience.
-    ● Cloud/SaaS platform service provisioning, and system monitoring/maintenance.
+    <ul>
+      <li>Extensive UNIX/Linux utilities/techniques experience.</li>
+      <li>Cloud/SaaS platform service provisioning, and system monitoring/maintenance.</li>
+    </ul>
 
 - skill: Circuit Design
   description: |
-    ● Schematic and PCB design.
-    ● Construction and assembly of circuits.
-    ● Firmware development of sensor/interface drivers.
-    ● Circuit testing/debugging.
+    <ul>
+      <li>Schematic and PCB design.</li>
+      <li>Construction and assembly of circuits.</li>
+      <li>Firmware development of sensor/interface drivers.</li>
+      <li>Circuit testing/debugging.</li>
+    </ul>
 
 - skill: Teaching/Learning
   description: |
-    ● Ability to adapt to new technology and processes extremely rapidly.
-    ● Skilled in the distillation of information and the instruction of others.
-    ● Using intuitive grasp of machinery and electronics.
+    <ul>
+      <li>Ability to adapt to new technology and processes extremely rapidly.</li>
+      <li>Skilled in the distillation of information and the instruction of others.</li>
+      <li>Using intuitive grasp of machinery and electronics.</li>
+    </ul>
 
 - skill: Interpersonal
   description: |
-    ● Adept at creating relationships quickly.
-    ● Skilled at determining and matching a community vibe.
-    ● An excellent attentive listener.
+    <ul>
+      <li>Adept at creating relationships quickly.</li>
+      <li>Skilled at determining and matching a community vibe.</li>
+      <li>An excellent attentive listener.</li>
+    </ul>
 
 - skill: Software
   description: C/C++ - Python - Shell - GDB - Valgrind - VIM - Linux - Git
