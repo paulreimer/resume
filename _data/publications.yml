@@ -1,11 +1,12 @@
-- conference: ISVC 2011, Las Vegas NV, USA
-  authors: <b>Paul Reimer</b>, Alexandra Branzan Albu, and George Tzanetakis
-  summary: "Raydiance: a tangible interface for teaching computer vision", In the Proceedings of Advances in Visual Computing
+# Publications
+- conference: "ISVC 2011, Las Vegas NV, USA"
+  authors: "<b>Paul Reimer</b>, Alexandra Branzan Albu, and George Tzanetakis"
+  summary: '"Raydiance: a tangible interface for teaching computer vision", In the Proceedings of Advances in Visual Computing'
 
-- conference: ISMIR 2010, Barcelona Spain
-  authors: Scott Miller, <b>Paul Reimer</b>, Steven Ness, and George Tzanetakis
-  summary: "GeoShuffle: Location-aware, content-based music browsing using self-organizing tag clouds", In the Proceedings of the International Symposium on Music Information Retrieval
+- conference: "ISMIR 2010, Barcelona Spain"
+  authors: "Scott Miller, <b>Paul Reimer</b>, Steven Ness, and George Tzanetakis"
+  summary: '"GeoShuffle: Location-aware, content-based music browsing using self-organizing tag clouds", In the Proceedings of the International Symposium on Music Information Retrieval'
 
-- conference: ICAD 2010, Washington DC, USA
-  authors: Steven R. Ness, <b>Paul Reimer</b>, Norman Krell, Gabrielle Odowichuk, W. Andrew Schloss and George Tzanetakis
-  summary: "Sonophenology : A tangible interface for sonification of geo-spatial phenological data at multiple time-scales", In the Proceedings of the International Conference on Auditory Display
+- conference: "ICAD 2010, Washington DC, USA"
+  authors: "Steven R. Ness, <b>Paul Reimer</b>, Norman Krell, Gabrielle Odowichuk, W. Andrew Schloss and George Tzanetakis"
+  summary: '"Sonophenology : A tangible interface for sonification of geo-spatial phenological data at multiple time-scales", In the Proceedings of the International Conference on Auditory Display'
