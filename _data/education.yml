@@ -2,6 +2,6 @@
 - degree: B. Eng, Computer Engineering, Systems Specialization
   uni: University of Victoria
   year: 2004 &mdash; 2009
-  #awards:
-  #  - award: ""
-  summary: Engineering Student's Society Director of Communications, 2006-2007
+  awards:
+    - award: "Engineering Student's Society Director of Communications, 2006-2007"
+  #summary: 
