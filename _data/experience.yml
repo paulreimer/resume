@@ -6,13 +6,13 @@
   position: Operations Engineer
   duration: May 2015 &mdash; April 2017
   summary: |
-    <h5>Responsibilities</h5>
+    <i>Responsibilities</i>
     <ul>
       <li>Automation of existing deployment processes; designing process updates and architecture to facilitate a SaaS platform using the cloud, within a security-focused, enterprise environment.</li>
       <li>Improve developer team productivity through the use of new software tools, workflows, and automation frameworks.</li>
       <li>Network design and implementation of enterprise deployments in multiple regions, across multiple cloud and IaaS vendors.</li>
     </ul>
-    <h5>Accomplishments</h5>
+    <i>Accomplishments</i>
     <ul>
       <li>Refactored large existing application for use with scheduled bare-metal clusters using Kubernetes/Docker.</li>
       <li>Fully automated deployment process for server provisioning and application deployment.</li>
@@ -24,13 +24,13 @@
   position: Project Engineer
   duration: June 2010 &mdash; May 2015
   summary: |
-    <h5>Responsibilities</h5>
+    <i>Responsibilities</i>
     <ul>
       <li>Software engineering design and development for industrial, automated sensing contracts, and including hardware sourcing, firmware design, driver development, OS customization, and developing production architectures and internal tools.</li>
       <li>Developing electronics, sensor, and new-user-interface applications for real-time interactive art installation contracts, working with artists to deliver a polished work.</li>
       <li>System administration/operations, web architecture design and implementation for custom web services relating to art installation and/or industrial contracts, including maintenance and analytics through the lifecycle of the deployment.</li>
     </ul>
-    <h5>Accomplishments</h5>
+    <i>Accomplishments</i>
     <ul>
       <li>Sourced and designed the electronics and control software for the ​G++ Interactive Gallery Sign​ outside the Limbic Headquarters, featuring a public website with fast+interactive control of video playback and messages, to advertise and demonstrate to potential clients.</li>
       <li>Designed and implemented a real-time, audio-reactive lighting control platform, using STM32F4 ICs and DMA/I2S audio processing pipeline.</li>
@@ -38,7 +38,7 @@
       <li>Designed desktop applications and sensor processing algorithms for eight different art installations, with city-wide exhibitions.</li>
     </ul>
 
-- company: Simbioses Lab, University of Victoria​, Victoria, BC
+- company: Simbioses Lab, University of Victoria, Victoria, BC
   position: Researcher
   duration: June 2009 &mdash; August 2010
   summary: |
@@ -53,7 +53,7 @@
   position: Experimental Web Technologies Developer (Co-op)
   duration: September &mdash; December 2008
   summary: |
-    <h5>Responsibilities</h5>
+    <i>Responsibilities</i>
     <ul>
       <li>Implement proof-of-concept solutions for linking power monitoring devices to the web.</li>
       <li>Research upcoming W3C web standards and emerging social network APIs.</li>
@@ -61,7 +61,7 @@
       <li>Present findings to senior developers.</li>
       <li>Write SR&ED Canada research reports documenting innovations.</li>
     </ul>
-    <h5>Accomplishments</h5>
+    <i>Accomplishments</i>
     <ul>
       <li>Created several prototypes able to communicate with existing, deployed power meters without requiring firmware/hardware upgrades.</li>
       <li>Wrote a parser for an established serial protocol, building packets which are forwarded to the appropriate power meter, which can alter settings and/or generate reports.</li>
@@ -72,14 +72,14 @@
   position: Web Performance Developer (Co-op)
   duration: March &mdash; May 2008
   summary: |
-    <h5>Responsibilities</h5>
+    <i>Responsibilities</i>
     <ul>
       <li>Become familiar with a large existing codebase for an in-house CMS web application.</li>
       <li>Locate opportunities for performance optimizations.</li>
       <li>Implement various servers and services.</li>
       <li>Benchmark improved architecture against existing system to verify speed gains.</li>
     </ul>
-    <h5>Accomplishments</h5>
+    <i>Accomplishments</i>
     <ul>
       <li>Learned a large variety of cutting-edge web technologies and techniques.</li>
       <li>Implemented a distributed memory caching cluster.</li>
@@ -90,13 +90,13 @@
   position: Junior Developer (Co-op)
   duration: September &mdash; December 2006
   summary: |
-    <h5>Responsibilities</h5>
+    <i>Responsibilities</i>
     <ul>
       <li>Receive requirements from project/development manager.</li>
       <li>Document all steps in designing and implementing a solution to a complex problem.</li>
       <li>Create new features for web-based educational software.</li>
     </ul>
-    <h5>Accomplishments</h5>
+    <i>Accomplishments</i>
     <ul>
       <li>Learned to work efficiently in a small team environment.</li>
       <li>Established a rhythm of working to achieve constantly high productivity.</li>
@@ -107,14 +107,14 @@
   position: Programmer / Data Enterer (Co-op)
   duration: January &mdash; April 2006
   summary: |
-    <h5>Responsibilities</h5>
+    <i>Responsibilities</i>
     <ul>
       <li>Create modules in PHP for a large online advertising framework.</li>
       <li>Create administrative tools to improve internal efficiency.</li>
       <li>Manage and edit relational database systems.</li>
       <li>Investigate new development tools.</li>
     </ul>
-    <h5>Accomplishments</h5>
+    <i>Accomplishments</i>
     <ul>
       <li>Learned to program efficiently in a small team environment.</li>
       <li>Became familiar with a huge range of open-source utilities.</li>
