@@ -183,8 +183,8 @@
 
         {% for art_exhibition in site.data.art_exhibitions %}
         <div class="resume-item">
-          <h3 class="resume-item-title" itemprop="award">{{ art_exhibition.award }}</h3>
-          <h4 class="resume-item-details">{{ art_exhibition.organization }} &bull; {{ art_exhibition.year }}</h4>
+          <h3 class="resume-item-title" itemprop="award">{{ art_exhibition.venue }}</h3>
+          <h4 class="resume-item-details">{{ art_exhibition.date }}</h4>
           <p class="resume-item-copy">{{ art_exhibition.summary }}</p>
         </div>
         {% endfor %}
