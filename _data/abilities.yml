@@ -1,0 +1,41 @@
+- ability: Software Development
+  description: >
+    <ul>
+      <li>Fully proficient in C/C++, Python, Javascript, SQL, some assembly when required.</li>
+      <li>Broad knowledge of free/open-source databases (SQL and NoSQL).</li>
+      <li>Network and distributed application architecture design.</li>
+      <li>HTML5 web application front-end/back-end development.</li>
+      <li>Desktop applications with OpenGL/GPU programming.</li>
+    </ul>
+
+- ability: System Administration
+  description: |
+    <ul>
+      <li>Extensive UNIX/Linux utilities/techniques experience.</li>
+      <li>Cloud/SaaS platform service provisioning, and system monitoring/maintenance.</li>
+    </ul>
+
+- ability: Circuit Design
+  description: |
+    <ul>
+      <li>Schematic and PCB design.</li>
+      <li>Construction and assembly of circuits.</li>
+      <li>Firmware development of sensor/interface drivers.</li>
+      <li>Circuit testing/debugging.</li>
+    </ul>
+
+- ability: Teaching/Learning
+  description: |
+    <ul>
+      <li>Ability to adapt to new technology and processes extremely rapidly.</li>
+      <li>Skilled in the distillation of information and the instruction of others.</li>
+      <li>Using intuitive grasp of machinery and electronics.</li>
+    </ul>
+
+- ability: Interpersonal
+  description: |
+    <ul>
+      <li>Adept at creating relationships quickly.</li>
+      <li>Skilled at determining and matching a community vibe.</li>
+      <li>An excellent attentive listener.</li>
+    </ul>
