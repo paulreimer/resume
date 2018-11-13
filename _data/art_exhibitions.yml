@@ -1,10 +1,25 @@
-# Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- venue: Royal Victoria Museum, Victoria, BC
+  date: April 2013
+  summary: |
+    ● Laterna Magica: An audio puzzle; a series of hurricane lanterns retrofitted with LEDs and three distinct audio-segmentation algorithms.
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- venue: Downtown Victoria Business Association, Victoria, BC
+  date: Winter 2012
+  summary: |
+    ● Wintertree: An audio-reactive, ~1600 LED node installation.<br/>
+    ● Winterplay: An SMS-triggered video jukebox via large-scale projection.
+
+- venue: G++ Gallery, Victoria, BC
+  date: December 2011- March 2013
+  summary: |
+    ● Fish.e: A custom-built paper-mache and LED structure, with video mapping, tracked user silhouettes, and clap-detection.<br/>
+    ● The Woods: An SMS-triggered choose-your-own adventure via two HDTVs.<br/>
+    ● Impulse: A multiplayer heart-sensor, LED, and projection-mapping installation.<br/>
+    ● Shadows & Light: Traditional Chinese shadow-puppet play, automated via projection and robotics.<br/>
+    ● Atagamaton: A Kinect-triggered robotics installation.<br/>
+    ● Ectoplasmic Scream: A face-tracking based art piece featuring sampled videos of the artist, and a soft-body physics simulation controlled by the openness of a user’s mouth.
+
+- venue: Ministry of Casual Living, Victoria, BC
+  date: May 2010
+  summary: |
+    Ministry of Casual Touching: Computer-vision/music interactive installation; a warped projected scene resembling wheat fields, generated audio, and a touch sensitive glass display.
