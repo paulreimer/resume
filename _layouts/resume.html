@@ -153,27 +153,47 @@
       <!-- end Abilities -->
       {% endif %}
 
-      {% if site.resume_section_recognition %}
-      <!-- begin Recognition -->
+      {% if site.resume_section_publications %}
+      <!-- begin Publications -->
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Recognition</h2>
+          <h2>Selected Publications</h2>
         </header>
 
-        {% for recognition in site.data.recognitions %}
+        {% for publication in site.data.publications %}
         <div class="resume-item">
-          <h3 class="resume-item-title" itemprop="award">{{ recognition.award }}</h3>
-          <h4 class="resume-item-details">{{ recognition.organization }} &bull; {{ recognition.year }}</h4>
-          <p class="resume-item-copy">{{ recognition.summary }}</p>
+          <h3 class="resume-item-title" itemprop="award">{{ publication.award }}</h3>
+          <h4 class="resume-item-details">{{ publication.organization }} &bull; {{ publication.year }}</h4>
+          <p class="resume-item-copy">{{ publication.summary }}</p>
         </div>
         {% endfor %}
 
       </section>
-      <!-- end Recognition -->
+      <!-- end Selected Publications -->
       {% endif %}
 
-      {% if site.resume_section_associations %}
+      {% if site.resume_section_art_exhibitions %}
+      <!-- begin Art Exhibitions -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Art Exhibitions</h2>
+        </header>
+
+        {% for art_exhibition in site.data.art_exhibitions %}
+        <div class="resume-item">
+          <h3 class="resume-item-title" itemprop="award">{{ art_exhibition.award }}</h3>
+          <h4 class="resume-item-details">{{ art_exhibition.organization }} &bull; {{ art_exhibition.year }}</h4>
+          <p class="resume-item-copy">{{ art_exhibition.summary }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Art Exhibitions -->
+      {% endif %}
+
+    {% if site.resume_section_associations %}
       <!-- begin Associations -->
       <section class="content-section">
 
