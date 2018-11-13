@@ -163,8 +163,8 @@
 
         {% for publication in site.data.publications %}
         <div class="resume-item">
-          <h3 class="resume-item-title" itemprop="award">{{ publication.award }}</h3>
-          <h4 class="resume-item-details">{{ publication.organization }} &bull; {{ publication.year }}</h4>
+          <h3 class="resume-item-title" itemprop="award">{{ publication.conference }}</h3>
+          <h4 class="resume-item-details">{{ publication.authors }}</h4>
           <p class="resume-item-copy">{{ publication.summary }}</p>
         </div>
         {% endfor %}
