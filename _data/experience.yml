@@ -2,7 +2,7 @@
   position: Founder
   duration: April 2017 &mdash; Present
 
-- company: <a href="https://www.awesense.com/">Awesense</a>, Vancouver BC
+- company: <a target="_blank" href="https://www.awesense.com/">Awesense</a>, Vancouver BC
   position: Operations Engineer
   duration: May 2015 &mdash; April 2017
   summary: |
@@ -20,7 +20,7 @@
       <li>Created CI pipeline implementing containerization and supporting continuous delivery.</li>
     </ul>
 
-- company: <a href="https://limbicmedia.ca/">Limbic Media<a>, Victoria BC
+- company: <a target="_blank" href="https://limbicmedia.ca/">Limbic Media<a>, Victoria BC
   position: Project Engineer
   duration: June 2010 &mdash; May 2015
   summary: |
@@ -32,13 +32,13 @@
     </ul>
     <i>Accomplishments</i>
     <ul>
-      <li>Sourced and designed the electronics and control software for the <a href="http://vimeo.com/54396669">G++ Interactive Gallery Sign</a> outside the Limbic Headquarters, featuring a public website with fast+interactive control of video playback and messages, to advertise and demonstrate to potential clients.</li>
+      <li>Sourced and designed the electronics and control software for the <a target="_blank" href="http://vimeo.com/54396669">G++ Interactive Gallery Sign</a> outside the Limbic Headquarters, featuring a public website with fast+interactive control of video playback and messages, to advertise and demonstrate to potential clients.</li>
       <li>Designed and implemented a real-time, audio-reactive lighting control platform, using STM32F4 ICs and DMA/I2S audio processing pipeline.</li>
       <li>Architected and implemented a robust, vehicle-mounted embedded Linux device integrating multiple sensors, multi-bearer networking, and a distributed queueing system.</li>
       <li>Designed desktop applications and sensor processing algorithms for eight different art installations, with city-wide exhibitions.</li>
     </ul>
 
-- company: <a href="https://connex.csc.uvic.ca/access/wiki/site/simbioses/welcome.html?breadcrumb=0">Simbioses Lab</a>, University of Victoria, Victoria, BC
+- company: <a target="_blank" href="https://connex.csc.uvic.ca/access/wiki/site/simbioses/welcome.html?breadcrumb=0">Simbioses Lab</a>, University of Victoria, Victoria, BC
   position: Researcher
   duration: June 2009 &mdash; August 2010
   summary: |
@@ -48,8 +48,8 @@
       <li>Developed a rapid software prototyping environment using tangible objects based on fiducial markers and a conventional LCD monitor.</li>
       <li>Adapted the prototyping application for a high-school workshop highlighting computer vision, presented at Brentwood College, Victoria BC.</li>
     </ul>
-  
-- company: <a href="http://www.schneider-electric.ca/">Schneider Electric</a>, Victoria, BC
+
+- company: <a target="_blank" href="http://www.schneider-electric.ca/">Schneider Electric</a>, Victoria, BC
   position: Experimental Web Technologies Developer (Co-op)
   duration: September &mdash; December 2008
   summary: |
@@ -68,7 +68,7 @@
       <li>Implemented a similar web application targeting mobile devices.</li>
     </ul>
 
-- company: <a href="https://thenumber.ca/">TheNumber Inc.</a>, Victoria, BC
+- company: <a target="_blank" href="https://thenumber.ca/">TheNumber Inc.</a>, Victoria, BC
   position: Web Performance Developer (Co-op)
   duration: March &mdash; May 2008
   summary: |
