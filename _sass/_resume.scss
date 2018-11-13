@@ -155,19 +155,14 @@
     }
   }
 
-  .resume-item-title,
-  .resume-item-details,
-  .resume-item-copy,
-  .resume-item-list {
-    a {
-      color: #333;
-      text-decoration: none;
-      border-bottom: 1px solid;
+  a {
+    color: #333;
+    text-decoration: none;
+    border-bottom: 1px solid;
 
-      &:hover {
-        border-bottom: none;
-        color: #9c9c9c;
-      }
+    &:hover {
+      border-bottom: none;
+      color: #9c9c9c;
     }
   }
 
@@ -229,15 +224,6 @@
       &.award-title {
         font-size: 11px;
       }
-    }
-  }
-  .resume-item-title,
-  .resume-item-details,
-  .resume-item-copy,
-  .resume-item-list {
-    a {
-      color:inherit;
-      text-decoration: none;
     }
   }
   a {
