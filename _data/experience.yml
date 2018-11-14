@@ -71,52 +71,52 @@
 - company: <a target="_blank" href="https://thenumber.ca/">TheNumber Inc.</a>, Victoria, BC
   position: Web Performance Developer (Co-op)
   duration: March &mdash; May 2008
-  summary: |
-    <i>Responsibilities</i>
-    <ul>
-      <li>Become familiar with a large existing codebase for an in-house CMS web application.</li>
-      <li>Locate opportunities for performance optimizations.</li>
-      <li>Implement various servers and services.</li>
-      <li>Benchmark improved architecture against existing system to verify speed gains.</li>
-    </ul>
-    <i>Accomplishments</i>
-    <ul>
-      <li>Learned a large variety of cutting-edge web technologies and techniques.</li>
-      <li>Implemented a distributed memory caching cluster.</li>
-      <li>Constructed a semi-automated accounts management and installation application.</li>
-    </ul>
+  #summary: |
+  #  <i>Responsibilities</i>
+  #  <ul>
+  #    <li>Become familiar with a large existing codebase for an in-house CMS web application.</li>
+  #    <li>Locate opportunities for performance optimizations.</li>
+  #    <li>Implement various servers and services.</li>
+  #    <li>Benchmark improved architecture against existing system to verify speed gains.</li>
+  #  </ul>
+  #  <i>Accomplishments</i>
+  #  <ul>
+  #    <li>Learned a large variety of cutting-edge web technologies and techniques.</li>
+  #    <li>Implemented a distributed memory caching cluster.</li>
+  #    <li>Constructed a semi-automated accounts management and installation application.</li>
+  #  </ul>
 
 - company: eTraffic Solutions Inc., Victoria, BC
   position: Junior Developer (Co-op)
   duration: September &mdash; December 2006
-  summary: |
-    <i>Responsibilities</i>
-    <ul>
-      <li>Receive requirements from project/development manager.</li>
-      <li>Document all steps in designing and implementing a solution to a complex problem.</li>
-      <li>Create new features for web-based educational software.</li>
-    </ul>
-    <i>Accomplishments</i>
-    <ul>
-      <li>Learned to work efficiently in a small team environment.</li>
-      <li>Established a rhythm of working to achieve constantly high productivity.</li>
-      <li>Determined a personal method for improving efficiency of a repeated process.</li>
-    </ul>
+  #summary: |
+  #  <i>Responsibilities</i>
+  #  <ul>
+  #    <li>Receive requirements from project/development manager.</li>
+  #    <li>Document all steps in designing and implementing a solution to a complex problem.</li>
+  #    <li>Create new features for web-based educational software.</li>
+  #  </ul>
+  #  <i>Accomplishments</i>
+  #  <ul>
+  #    <li>Learned to work efficiently in a small team environment.</li>
+  #    <li>Established a rhythm of working to achieve constantly high productivity.</li>
+  #    <li>Determined a personal method for improving efficiency of a repeated process.</li>
+  #  </ul>
 
 - company: Neverblue Media Inc., Victoria, BC
   position: Programmer / Data Enterer (Co-op)
   duration: January &mdash; April 2006
-  summary: |
-    <i>Responsibilities</i>
-    <ul>
-      <li>Create modules in PHP for a large online advertising framework.</li>
-      <li>Create administrative tools to improve internal efficiency.</li>
-      <li>Manage and edit relational database systems.</li>
-      <li>Investigate new development tools.</li>
-    </ul>
-    <i>Accomplishments</i>
-    <ul>
-      <li>Learned to program efficiently in a small team environment.</li>
-      <li>Became familiar with a huge range of open-source utilities.</li>
-      <li>Created several internal administration modules to improve user management.</li>
-    </ul>
+  #summary: |
+  #  <i>Responsibilities</i>
+  #  <ul>
+  #    <li>Create modules in PHP for a large online advertising framework.</li>
+  #    <li>Create administrative tools to improve internal efficiency.</li>
+  #    <li>Manage and edit relational database systems.</li>
+  #    <li>Investigate new development tools.</li>
+  #  </ul>
+  #  <i>Accomplishments</i>
+  #  <ul>
+  #    <li>Learned to program efficiently in a small team environment.</li>
+  #    <li>Became familiar with a huge range of open-source utilities.</li>
+  #    <li>Created several internal administration modules to improve user management.</li>
+  #  </ul>
