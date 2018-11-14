@@ -4,14 +4,17 @@
 - skill: Firmware
   description: FreeRTOS - Yocto - DMA - lwIP/Sockets - OTA - SPI - Serial - I2C - I2S - WiFi - Bluetooth/BLE
 
-- skill: Hardware
-  description: KiCAD - Fusion 360 - Modo - Sourcing - Oscilloscope/Analyzer - ESP32 - STM32 - FTDI - RaspberryPi
+- skill: Electrical
+  description: KiCAD - Sourcing - Oscilloscope/Analyzer - ESP32 - STM32 - FTDI - RaspberryPi
+
+- skill: Mechanical
+  description: Fusion 360 - Modo - Rhino/Grasshopper - 3D Printing
 
 - skill: Architecture
-  description: Serverless - Redis - Gitops - PostgreSQL - Elastic - InfluxDB - Firebase - MQTT - Protocol Buffers - FlatBuffers
+  description: Serverless - GraphQL - REST - MQTT - Firebase - DynamoDB - Redis - PostgreSQL - Elastic - InfluxDB - Protocol Buffers - FlatBuffers
 
 - skill: Networking
   description: Network design - Routing - TCP/IP - IPv6 - BGP - IPSec - PXE - VyOS software router
 
 - skill: Cloud/Datacenter
-  description: AWS - Google Cloud - Kubernetes - Docker - Ansible - CI/CD
+  description: AWS - Google Cloud - Kubernetes - Docker - Ansible - CI/CD - Gitops
