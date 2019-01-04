@@ -1,6 +1,24 @@
 - company: Research In Progress, Vancouver, BC
   position: Founder
   duration: April 2017 &mdash; Present
+  summary: |
+    <i>Responsibilities</i>
+    <ul>
+      <li>System design, architecture, and implementation of consumer electronics hardware prototypes.</li>
+      <li>Implement device security best practices to protect sensitive consumer data over public/private networks.</li>
+      <li>Research, source, and integrate newly released microcontrollers and sensors for ambient interactivity.</li>
+      <li>Design and produce manufacturing test jigs to verify assembly and programming of electronic products.</li>
+      <li>Generate product renderings and assembly views for in-progress prototypes.</li>
+      <li>Research emerging software/infrastructure technologies to enable rapid application development.</li>
+    </ul>
+    <i>Accomplishments</i>
+    <ul>
+      <li>Developed and published an open-source C++ library for programming microcontrollers using an Actor model based on Erlang.</li>
+      <li>Created serverless backend prototypes for remote device control using Firebase, AWS Lambda, and AWS AppSync.</li>
+      <li>Created frontend prototypes (web + mobile) using React Native, and Flutter.</li>
+      <li>Implemented a USB-C Power Delivery (PD) subsystem to increase power available for USB LED lighting peripherals.</li>
+      <li>Configured and maintained a CI system using a hardware test suite to fully verify potential code changes.</li>
+    </ul>
 
 - company: <a target="_blank" href="https://www.awesense.com/">Awesense</a>, Vancouver BC
   position: Operations Engineer
