@@ -53,6 +53,7 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/paul-reimer"
   resume_instagram_url:         "https://www.instagram.com/paulreimer"
+  resume_vimeo_url:             "https://vimeo.com/paulreimer"
   resume_website_url:           "https://www.p-rimes.net"
   # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
